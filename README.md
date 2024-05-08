@@ -1,2 +1,2 @@
-# PhpCoders
-Every php coder, an email
+# codermail.org
+Every coder, an email
